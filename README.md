@@ -1,6 +1,6 @@
 # Dhruv Sharma
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+my+GitHub+Profile)
+![Animation](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
 
 ## About Me
 I am a web development specialist with expertise in HTML, CSS, JavaScript, and backend web development. I am also proficient in C and Python programming languages.
